@@ -2,7 +2,7 @@
   "name": "covidapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Arsh-q.github.io/Weatherapp",
+  "homepage": ".",
 
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -22,7 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI= react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
