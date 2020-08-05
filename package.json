@@ -2,7 +2,7 @@
   "name": "covidapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arsh-q.github.io/Weatherapp",
+  "homepage": "https://Arsh-q.github.io/Weatherapp",
 
   "dependencies": {
     "@material-ui/core": "^4.11.0",
